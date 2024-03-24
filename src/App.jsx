@@ -5,12 +5,10 @@ const App = () => {
   return (
     <>
       Hello world!
-
       <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
         <Button className="mt-10" href="#login">
-        Something
+          Something
         </Button>
-
       </div>
       <ButtonGradient />
     </>
